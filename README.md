@@ -24,7 +24,7 @@ Fungal Infections:
   Ringworm
 Parasitic Infections:
   Cutaneous Larva Migrans
-Viral Skin Infections:
+Viral Skin Infections:  
   Chickenpox
   Shingles*
 The dataset was sourced from:
