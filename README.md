@@ -5,7 +5,7 @@ This repository contains code for predicting skin diseases using deep learning t
 # About
 Skin diseases are common and can significantly impact an individual's health and quality of life. Early detection and accurate diagnosis of skin conditions are crucial for effective treatment. This project aims to provide a simple, user-friendly web application for automated skin disease prediction using deep learning algorithms.
 
-C# ode Overview
+# Code Overview
 The key components of the code include:
 
 Loading a pre-trained MobileNet V2 model from TensorFlow Hub.
