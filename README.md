@@ -33,15 +33,16 @@ Kaggle Skin Disease Dataset
 # Usage
 Follow these steps to use the application:
 
-Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
-bash git clone https://github.com/Shrikant-Bodkhe/skin-disease-prediction-streamlit.git
-Install the required dependencies:
+    bash git clone https://github.com/Shrikant-Bodkhe/skin-disease-prediction-streamlit.git
+2. Install the required dependencies:
 
-bash pip install -r requirements.txt
-Run the main script to launch the Streamlit app:
+    bash pip install -r requirements.txt
+3. Run the main script to launch the Streamlit app:
 
-bash streamlit run app.py
+    bash streamlit run app.py
+
 Once the application is running, the Streamlit web interface will open in your default browser.
 
 Upload an image of a skin condition through the file uploader interface.
