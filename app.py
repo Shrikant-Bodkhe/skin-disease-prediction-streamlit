@@ -31,7 +31,7 @@ def load_model_weights():
         keras.layers.Lambda(lambda x: feature_extractor_layer(x)),
         keras.layers.Dense(len(disease_train_label_dic), activation='softmax')
     ])
-    model.load_weights(r"C:\Users\DjS\RPS\skin\my_model.weights.h5")
+    model.load_weights("my_model.weights.h5")
 
 load_model_weights()
 
