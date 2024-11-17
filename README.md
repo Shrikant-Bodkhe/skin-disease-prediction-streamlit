@@ -16,21 +16,17 @@ Preprocessing images, predicting diseases, and displaying results in the web int
 The dataset used for training includes images of various skin diseases that have been collected from the internet. It contains the following eight classes of skin diseases:
 
 Bacterial Infections:
-
-Cellulitis
-Impetigo
+  Cellulitis
+  Impetigo
 Fungal Infections:
-
-Athlete's Foot
-Nail Fungus
-Ringworm
+  Athlete's Foot
+  Nail Fungus
+  Ringworm
 Parasitic Infections:
-
-Cutaneous Larva Migrans
+  Cutaneous Larva Migrans
 Viral Skin Infections:
-
-Chickenpox
-Shingles
+  Chickenpox
+  Shingles
 The dataset was sourced from:
 Kaggle Skin Disease Dataset
 
@@ -39,19 +35,13 @@ Follow these steps to use the application:
 
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/Shrikant-Bodkhe/skin-disease-prediction-streamlit.git
+bash git clone https://github.com/Shrikant-Bodkhe/skin-disease-prediction-streamlit.git
 Install the required dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
+bash pip install -r requirements.txt
 Run the main script to launch the Streamlit app:
 
-bash
-Copy code
-streamlit run app.py
+bash streamlit run app.py
 Once the application is running, the Streamlit web interface will open in your default browser.
 
 Upload an image of a skin condition through the file uploader interface.
