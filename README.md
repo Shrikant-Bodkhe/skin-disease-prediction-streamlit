@@ -14,14 +14,26 @@ Creating a web-based GUI using Streamlit for user interaction.
 Preprocessing images, predicting diseases, and displaying results in the web interface.
 # About Dataset
 The dataset used for training includes images of various skin diseases that have been collected from the internet. It contains the following eight classes of skin diseases:
+In this dataset image collected from internet.In this dataset there are total 8 class ,They are
 
-*Bacterial Infections:                                                                                                                                                                                              
-  Cellulitis                                                                                                                                                                                                        
-  Impetigo                                                                                                                                                                                                          
-Fungal Infections:                                                                                                                                                                                                  
-  Athlete's Foot                                                                                                                                                                                                      Nail Fungus                                                                                                                                                                                                         Ringworm                                                                                                                                                                                                          Parasitic Infections:                                                                                                                                                                                                 Cutaneous Larva Migrans                                                                                                                                                                                           Viral Skin Infections:                                                                                                                                                                                                Chickenpox                                                                                                                                                                                                          Shingles*                                                                                                                                                                                                                
+1.	Bacterial Infections- cellulitis
+
+2.	Bacterial Infections- impetigo
+
+3.	Fungal Infections - athlete -foot
+
+4.	Fungal Infections - nail-fungus
+
+5.	Fungal Infections - ringworm
+
+6.	Parasitic Infections - cutaneous-larva-migrans
+
+7.	Viral skin infections - chickenpox
+
+8.	Viral skin infections - shingles
+
 The dataset was sourced from:
-Kaggle Skin Disease Dataset
+https://www.kaggle.com/datasets/subirbiswas19/skin-disease-dataset
 
 # Usage
 Follow these steps to use the application:
