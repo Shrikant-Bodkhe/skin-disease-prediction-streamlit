@@ -1,4 +1,4 @@
-## LIVE AT : https://skin-disease-prediction-app-4qdzwwpvna2fxpfns8ay6d.streamlit.app
+# LIVE AT : https://skin-disease-prediction-app-4qdzwwpvna2fxpfns8ay6d.streamlit.app
 # Skin-Disease-Prediction-Streamlit
 This repository contains code for predicting skin diseases using deep learning techniques with a web-based graphical user interface (GUI) built using Streamlit. The model is trained on a dataset of skin disease images and can classify different types of skin diseases with high accuracy.
 
